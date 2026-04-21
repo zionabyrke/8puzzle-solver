@@ -5,6 +5,11 @@ This project is a simple implementation of the **8-puzzle problem** using Python
 
 ---
 
+## Demo
+<img src="src/demo.gif" alt="Demo" width="420">
+
+---
+
 ## Overview
 
 The **8-puzzle** is a 3×3 grid with 8 numbered tiles and one empty space. Tiles can be moved into the empty space, and the objective is to reach a specific arrangement starting from an initial configuration.
